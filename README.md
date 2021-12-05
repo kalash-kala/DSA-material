@@ -1,2 +1,2 @@
 # DSA-material
-This repository consists of all the DSA implementations I hav done so far
+This repository consists of all the DSA implementations I have done so far
